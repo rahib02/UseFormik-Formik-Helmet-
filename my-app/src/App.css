@@ -1,0 +1,49 @@
+.App {
+
+  background-color: #282c34;
+
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+label {
+  color: whitesmoke;
+  font-size: larger;
+}
+
+form {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+form input {
+
+  margin: auto;
+  width: 300px;
+  height: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+form button {
+  margin: auto;
+  width: 100px;
+  height: 30px;
+  background-color: green;
+  font-size: medium;
+  color: whitesmoke;
+}
+
+table {
+  background-color: whitesmoke;
+}
